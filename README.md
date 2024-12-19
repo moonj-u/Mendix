@@ -25,7 +25,7 @@ Mendix를 이용하여 개발된 예약 관리 시스템입니다.
 Persistable Entity와 Non-Persistable Entity를 구분하여 각 Entity의 역할을 설명합니다.
 ```
 
-![Domain Model](images/domain-model.png)
+![Domain Model](Mendix/images/domain-model.png)
 
 - Persistable Entity(영속성)
   - Account(Generalization - System.User)
